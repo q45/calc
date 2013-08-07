@@ -1,4 +1,4 @@
-calc
+Ruby Excercise questions
 ====
 Note: we're looking for Ruby commands for the below questions, not the actual answers, unless it's a question. 
 
